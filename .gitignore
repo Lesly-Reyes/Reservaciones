@@ -1,0 +1,42 @@
+# === Visual Studio cache ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Build folders ===
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.dll
+*.ilk
+*.idb
+*.lib
+*.ipch
+*.log
+*.cache
+
+# === Backup and misc ===
+*.tmp
+*.bak
+*.old
+*.zip
+*.rar
+*.7z
+
+# === Visual Studio files (optional) ===
+# deja estos si quieres que otros abran el proyecto
+# *.sln
+# *.vcxproj
+# *.vcxproj.filters
+
+# === Solo incluir código fuente ===
+!*.cpp
+!*.h
