@@ -8,6 +8,8 @@ int main() {
     cout << "Hola mundo" << endl;
 	cout << "Adios mundo" << endl;
 	cout << "El bonito" << endl;
+	cout <<"hola"<<endl;
+	
 	
 	return 0;
 }
