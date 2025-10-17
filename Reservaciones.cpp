@@ -9,7 +9,7 @@ int main() {
 	cout << "Adios mundo" << endl;
 	cout << "El bonito" << endl;
 	cout <<"hola"<<endl;
-	
+	cout << "Hoal como estas" << endl;
 	
 	return 0;
 }
